@@ -37,7 +37,7 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-![Alt Text](Images/yosys_installation_done.jpeg)
+![Alt Text](yosys1.png)
 
 #### <ins>**Iverilog**</ins>
 ```bash
@@ -52,3 +52,17 @@ $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
 ![Alt Text](gtkwave1.png)
+
+### <ins>**ngspice**</ins>
+```bash
+$sudo apt update
+$sudo apt install ngspice
+```
+![Alt Text](ngspice1.png)
+
+### <ins>**qrouter**</ins>
+```bash
+$sudo apt update
+$sudo apt install qrouter
+```
+![Alt Text](qrouter1.png)
