@@ -49,20 +49,27 @@ $ sudo apt-get install iverilog
 #### <ins>**gtkwave**</ins>
 ```bash
 $ sudo apt-get update
-$ sudo apt install gtkwave
+$ sudo apt-get install gtkwave
 ```
 ![Alt Text](gtkwave1.png)
 
 ### <ins>**ngspice**</ins>
 ```bash
-$sudo apt update
-$sudo apt install ngspice
+$sudo apt-get update
+$sudo apt-get install ngspice
 ```
 ![Alt Text](ngspice1.png)
 
 ### <ins>**qrouter**</ins>
 ```bash
-$sudo apt update
-$sudo apt install qrouter
+$sudo apt-get update
+$sudo apt-get install qrouter
 ```
 ![Alt Text](qrouter1.png)
+
+### <ins>**magic**</ins>
+```bash
+$sudo apt-get update
+$sudo apt-get install magic
+```
+![Alt Text](magic.png)
